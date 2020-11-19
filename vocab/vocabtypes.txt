@@ -1,8 +1,0 @@
-PAD	0	1
-UNK	0	0
-<SOS>	0	2
-<EOS>	0	3
-pointer	22941	4
-unaryPredicate	68010	5
-variable	149633	6
-binaryPredicate	46128	7
